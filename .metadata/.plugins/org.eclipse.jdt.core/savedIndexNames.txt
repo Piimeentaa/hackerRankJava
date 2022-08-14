@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\isado\Hackerrank\.metadata\.plugins\org.eclipse.jdt.core
+1029968583.index
+2127843639.index
+1865797976.index
