@@ -10,6 +10,7 @@ public class JavaOutputFormatting {
             {
                 String s1=sc.next();
                 int x=sc.nextInt();
+                sc.close();
 
                 
 
