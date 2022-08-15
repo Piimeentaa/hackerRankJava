@@ -2,7 +2,7 @@ package br.com.exercicios;
 
 import java.util.Scanner;
 
-public class AprendendoCoisas {
+public class Palindromo {
 	
 	
 
